@@ -6,7 +6,7 @@ Comic react app its a web that feed with the API of comic vine and display a lis
 
 ## Requirements
 
-# `Heroku` 
+### `Heroku` 
 
 first of all you have to do a little deployment in heroku to solve CORS problems create a account in Heroku and follow the steps below
 
@@ -18,7 +18,7 @@ heroku create
 git push heroku master
 ```
 
-# `.env`
+### `.env`
 then please add a .env file and add two variables 
 ``` REACT_APP_KEY = api key to comic vine ```<br>
 ``` REACT_HEROKU_CORS = the url of heroku cors deploy ```<br>
