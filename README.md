@@ -10,8 +10,19 @@ you have to do a little deployment in heroku to solve CORS problems create a acc
 ```heroku create```<br>
 ```git push heroku master```<br>
 
-and add your url deploy in heroku + your endpoint 
+## .env
+then please add a .env file and add two variables 
+``` REACT_APP_KEY = api key to comic vine ```<br>
+``` REACT_HEROKU_CORS = the url of heroku cors deploy ```<br>
 
+## Dependencys 
+    * yarn install 
+    * yarn add bootstrap
+    * yarn add reactstrap
+    * yarn add react-popper
+    * yarn add react-router-dom
+    * yarn add axios
+    * yarn add font-awesome
 
 ## Deploy
 
