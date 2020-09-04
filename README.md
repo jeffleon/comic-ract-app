@@ -1,8 +1,8 @@
 ## COOMIC REACT APP
 
 Comic react app its a web that feed with the API of comic vine and display a list of the newer comics in the platform and if you click of one of then show his details.
-
-*this app its deploy in Firebase in the URL https://comics-d15a3.web.app*
+### Deploy
+This app its deploy in Firebase in the URL {https://comics-d15a3.web.app}
 
 ![alt text](img/comic-deploy.gif)
 
@@ -10,7 +10,7 @@ Comic react app its a web that feed with the API of comic vine and display a lis
 
 ### `Heroku` 
 
-first of all you have to do a little deployment in heroku to solve CORS problems create a account in Heroku and follow the steps below
+First of all you have to do a little deployment in heroku to solve CORS problems create a account in Heroku and follow the steps below
 
 ```shell
 git clone https://github.com/Rob--W/cors-anywhere.git
@@ -21,13 +21,13 @@ git push heroku master
 ```
 
 ### `.env`
-then please add a .env file and add two variables 
+Then please add a .env file and add two variables 
 ``` REACT_APP_KEY = api key to comic vine ```<br>
 ``` REACT_HEROKU_CORS = the url of heroku cors deploy ```<br>
 
 ## Dependencies 
 
-you have to install the dependencies below 
+You have to install the dependencies below 
 
     * yarn install 
     * yarn add bootstrap
