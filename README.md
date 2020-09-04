@@ -15,7 +15,7 @@ then please add a .env file and add two variables
 ``` REACT_APP_KEY = api key to comic vine ```<br>
 ``` REACT_HEROKU_CORS = the url of heroku cors deploy ```<br>
 
-## Dependencys 
+## Dependencies 
     * yarn install 
     * yarn add bootstrap
     * yarn add reactstrap
@@ -28,6 +28,7 @@ then please add a .env file and add two variables
 
 this app its deploy in Firebase in the URL https://comics-d15a3.web.app
 
+![Test Image 4](https://github.com/jeffleon/comic-react-app/img/comic-deploy.gif)
 ## 
 
 ## Available Scripts
