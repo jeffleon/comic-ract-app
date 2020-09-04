@@ -7,14 +7,10 @@
 first of all you have to do a little deployment in heroku to solve CORS problems create a account in Heroku and follow the steps below
 
 ```git clone https://github.com/Rob--W/cors-anywhere.git
-```
-```cd cors-anywhere/
-```
-```npm install
-```
-```heroku create
-```
-```git push heroku master
+cd cors-anywhere/
+npm install
+heroku create
+git push heroku master
 ```
 
 # .env
