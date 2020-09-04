@@ -1,6 +1,6 @@
 ## COOMIC REACT APP
 
-Comic its a app that feed with the API of comic vine and display a list of de newst comics in the platforme and if you click of one of then show his details.
+Comic react app its a web that feed with the API of comic vine and display a list of the newer comics in the platform and if you click of one of then show his details.
 
 ![alt text](img/comic-deploy.gif)
 
