@@ -4,19 +4,20 @@
 
 you have to do a little deployment in heroku to solve CORS problems create a account in Heroku and 
 
-`git clone https://github.com/Rob--W/cors-anywhere.git`<br>
-`cd cors-anywhere/`<br>
-`npm install`<br>
-`heroku create`<br>
-`git push heroku master`<br>
+```git clone https://github.com/Rob--W/cors-anywhere.git```<br>
+```cd cors-anywhere/```<br>
+```npm install```<br>
+```heroku create```<br>
+```git push heroku master```<br>
 
 and add your url deploy in heroku + your endpoint 
 
 
 ## Deploy
 
-this app its deploy in https://comics-d15a3.web.app
+this app its deploy in Firebase in the URL https://comics-d15a3.web.app
 
+## 
 
 ## Available Scripts
 
