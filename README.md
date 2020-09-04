@@ -2,6 +2,8 @@
 
 Comic react app its a web that feed with the API of comic vine and display a list of the newer comics in the platform and if you click of one of then show his details.
 
+*this app its deploy in Firebase in the URL https://comics-d15a3.web.app*
+
 ![alt text](img/comic-deploy.gif)
 
 ## Requirements
@@ -34,12 +36,6 @@ you have to install the dependencies below
     * yarn add react-router-dom
     * yarn add axios
     * yarn add font-awesome
-
-## Deploy
-
-this app its deploy in Firebase in the URL https://comics-d15a3.web.app
-
-![alt text](img/comic-deploy.gif)
  
 ## Available Scripts
 
