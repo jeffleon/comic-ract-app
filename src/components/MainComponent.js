@@ -15,7 +15,7 @@ class Main extends Component{
         }
     }
     async componentDidMount(){
-        const proxyurl = "https://damp-badlands-29550.herokuapp.com/";
+        const proxyurl = "REACT_HEROKU_CORS";
         const url = "https://comicvine.gamespot.com/api/issues/?api_key=REACT_APP_KEY&format=json"
         const response = await axios.get(proxyurl + url)
         console.log(response.data)

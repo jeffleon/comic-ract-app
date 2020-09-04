@@ -4,7 +4,7 @@ import ComicDetails from "./ComicDetailsComponent"
 
 async function fetchurl(detail_url){
     const url = detail_url + "/?api_key=REACT_APP_KEY&format=json"
-    const proxyurl = "https://damp-badlands-29550.herokuapp.com/";
+    const proxyurl = "REACT_HEROKU_CORS";
     const response = await axios.get(proxyurl + url)
     return response
 }
