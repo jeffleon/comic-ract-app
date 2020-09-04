@@ -6,7 +6,7 @@ Comic react app its a web that feed with the API of comic vine and display a lis
 
 ## Requirements
 
-# Heroku 
+# `Heroku` 
 
 first of all you have to do a little deployment in heroku to solve CORS problems create a account in Heroku and follow the steps below
 
@@ -18,7 +18,7 @@ heroku create
 git push heroku master
 ```
 
-# .env
+# `.env`
 then please add a .env file and add two variables 
 ``` REACT_APP_KEY = api key to comic vine ```<br>
 ``` REACT_HEROKU_CORS = the url of heroku cors deploy ```<br>
@@ -40,12 +40,7 @@ you have to install the dependencies below
 this app its deploy in Firebase in the URL https://comics-d15a3.web.app
 
 ![alt text](img/comic-deploy.gif)
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-
-## 
-
+ 
 ## Available Scripts
 
 In the project directory, you can run:
@@ -83,4 +78,5 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
