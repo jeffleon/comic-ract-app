@@ -2,7 +2,7 @@
 
 Comic react app its a web that feed with the API of comic vine and display a list of the newer comics in the platform and if you click of one of then show his details.
 ### Deploy
-This app its deploy in Firebase in the URL {https://comics-d15a3.web.app}
+This app its deploy in Firebase in the URL:https://comics-d15a3.web.app
 
 ![alt text](img/comic-deploy.gif)
 
