@@ -1,6 +1,8 @@
 ## COOMIC REACT APP
 
-## Heroku 
+## Requirements
+
+# Heroku 
 
 first of all you have to do a little deployment in heroku to solve CORS problems create a account in Heroku and follow the steps below
 
@@ -10,12 +12,15 @@ first of all you have to do a little deployment in heroku to solve CORS problems
 ```heroku create```<br>
 ```git push heroku master```<br>
 
-## .env
+# .env
 then please add a .env file and add two variables 
 ``` REACT_APP_KEY = api key to comic vine ```<br>
 ``` REACT_HEROKU_CORS = the url of heroku cors deploy ```<br>
 
 ## Dependencies 
+
+you have to install the dependencies below 
+
     * yarn install 
     * yarn add bootstrap
     * yarn add reactstrap
