@@ -1,12 +1,16 @@
 ## COOMIC REACT APP
 
+Comic its a app that feed with the API of comic vine and display a list of de newst comics in the platforme and if you click of one of then show his details.
+
+![alt text](img/comic-deploy.gif)
+
 ## Requirements
 
 # Heroku 
 
 first of all you have to do a little deployment in heroku to solve CORS problems create a account in Heroku and follow the steps below
 
-```
+```shell
 git clone https://github.com/Rob--W/cors-anywhere.git
 cd cors-anywhere/
 npm install
@@ -36,6 +40,10 @@ you have to install the dependencies below
 this app its deploy in Firebase in the URL https://comics-d15a3.web.app
 
 ![alt text](img/comic-deploy.gif)
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
 ## 
 
 ## Available Scripts
