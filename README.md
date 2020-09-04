@@ -28,7 +28,7 @@ then please add a .env file and add two variables
 
 this app its deploy in Firebase in the URL https://comics-d15a3.web.app
 
-![Alt Text](https://github.com/jeffleon/comic-react-app/img/comic-deploy.gif)
+![alt text](img/comic-deploy.gif)
 ## 
 
 ## Available Scripts
