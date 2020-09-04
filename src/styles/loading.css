@@ -1,0 +1,10 @@
+.spinner{
+    text-align: center;
+    width: '3rem';
+    height: '3rem';
+}
+.load{
+    margin-top: 10%;
+    vertical-align: middle;
+    height: 100vh;
+}

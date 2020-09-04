@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+
+.title{
+    padding-top: 1rem;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 50px;
+}
+.navbar-nav > li > a, .navbar-brand {
+    padding-top:5px !important; padding-bottom:0 !important;
+    height: 30px; /* aqui escoges el alto que necesites */
+}
+.navbar {
+    min-height:30px !important; /* aqui escoges el alto que necesites */
+}
+.header {
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 2rem;
+}
+
+.nav-bar{
+    text-align: center;
+}
+.inactive {
+    color: gray;
+    text-decoration: none;
+}
+
+.active {
+    color: green;
+    text-decoration: none;
+  }

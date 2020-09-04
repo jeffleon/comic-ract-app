@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+
+.center-block{
+    max-width: 100%;
+    margin-left: 5%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+.cardText{
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    color: #2F2F2F;
+}
+
+.namecard{
+    margin-bottom: 0rem;
+}
+.cardate{
+    color: #B0A9A9;
+    font-size: 10px;
+}
+.imagecard{
+    max-width: 180px;
+    max-height: 225px;
+}
+.cardcontentimg{
+    align-content: center;
+}
+.row{
+    max-width: 100%;
+}
+.card{
+    background-color: transparent!important;
+}
