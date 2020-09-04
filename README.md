@@ -2,7 +2,7 @@
 
 ## Heroku 
 
-you have to do a little deployment in heroku to solve CORS problems create a account in Heroku and 
+first of all you have to do a little deployment in heroku to solve CORS problems create a account in Heroku and follow the steps below
 
 ```git clone https://github.com/Rob--W/cors-anywhere.git```<br>
 ```cd cors-anywhere/```<br>
@@ -28,7 +28,7 @@ then please add a .env file and add two variables
 
 this app its deploy in Firebase in the URL https://comics-d15a3.web.app
 
-![Test Image 4](https://github.com/jeffleon/comic-react-app/img/comic-deploy.gif)
+![Alt Text](https://github.com/jeffleon/comic-react-app/img/comic-deploy.gif)
 ## 
 
 ## Available Scripts
