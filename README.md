@@ -26,7 +26,7 @@ then please add a .env file and add two variables
 
 ## Deploy
 
-this app its deploy in Firebase in the URL https://comics-d15a3.web.app
+this app its deploy in Firebase in the URL ##https://comics-d15a3.web.app
 
 ![alt text](img/comic-deploy.gif)
 ## 
